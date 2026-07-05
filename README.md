@@ -21,6 +21,4 @@ real SEO and GEO (Generative Engine Optimization) work, not just list skills.
 - Google Fonts: Fraunces, Inter, IBM Plex Mono
 - JSON-LD structured data (Schema.org Person) for search and AI-answer visibility
 - Open Graph and Twitter Card meta tags for link previews
-- Accessibility considerations: `prefers-reduced-motion` support, visible focus states
-
-## Structure
+- Accessibility considerations: reduced-motion support, visible focus states
